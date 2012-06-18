@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Pestana</string>
+	<string-array name="eurocopa">
+	    <item>Alemania</item>
+	    <item>Croacia</item>
+	    <item>Dinamarca</item>
+	    <item>Holanda</item>
+	    <item>Italia</item>
+	    <item>Francia</item>
+	    <item>España</item>
+	    <item>Inglaterra</item>
+	    <item>Grecia</item>
+	    <item>Portugal</item>
+	    <item>Suecia</item>
+	    <item>Rusia</item>
+	    <item>Republica Checa</item>
+	    <item>Republica de Irlanda</item>
+	    <item>Polonia</item>
+	    <item>Ucrania</item>
+
+	</string-array>
+</resources>
